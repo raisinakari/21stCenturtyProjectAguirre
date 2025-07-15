@@ -142,13 +142,13 @@ footer {
   max-width: 600px;
 }
 
-.intro-content h1 {
+.index-content h1 {
   font-family: 'Great Vibes', cursive;
   font-size: 3rem;
   margin-bottom: 1rem;
 }
 
-.intro-content p {
+.index-content p {
   font-size: 1.2rem;
   margin-bottom: 2rem;
 }
