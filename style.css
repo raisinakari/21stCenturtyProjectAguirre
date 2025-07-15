@@ -122,7 +122,7 @@ footer {
 }
 
 /* Intro Page */
-.intro-page {
+.index-page {
   margin: 0;
   height: 100vh;
   background: url('zoo.jpg') no-repeat center center/cover;
@@ -135,7 +135,7 @@ footer {
 }
 
 
-.intro-container {
+.index-container {
   background: rgba(0, 0, 0, 0.6);
   padding: 3rem;
   border-radius: 15px;
